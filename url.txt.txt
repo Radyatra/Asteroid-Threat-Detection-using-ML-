@@ -1,2 +1,0 @@
-Kaggle Dataset Link: https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects?datasetId=2272878&sortBy=voteCount
-Heroku App link: https://radyatra-sidharta-milestone2.herokuapp.com
